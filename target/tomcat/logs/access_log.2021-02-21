@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [21/Feb/2021:21:28:41 +0800] "GET /security-springmvc HTTP/1.1" 302 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [21/Feb/2021:21:28:42 +0800] "GET /security-springmvc/ HTTP/1.1" 200 300 http-bio-8080-exec-3 919
+0:0:0:0:0:0:0:1 - - [21/Feb/2021:21:28:42 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [21/Feb/2021:21:28:46 +0800] "GET /security-springmvc/ HTTP/1.1" 200 300 http-bio-8080-exec-5 3

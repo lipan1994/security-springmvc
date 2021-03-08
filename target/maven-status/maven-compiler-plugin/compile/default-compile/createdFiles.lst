@@ -1,0 +1,9 @@
+com\llicat\model\UserDto.class
+com\llicat\config\WebConfig.class
+com\llicat\service\impl\AuthenticationServiceImpl.class
+com\llicat\model\AuthenticationRequest.class
+com\llicat\init\SpringApplicationInitializer.class
+com\llicat\interceptor\SimpleAuthenticationInterceptor.class
+com\llicat\controller\LoginController.class
+com\llicat\config\ApplicationConfig.class
+com\llicat\service\AuthenticationService.class
